@@ -16,7 +16,6 @@ This project is my final assignment for the IBM Data Visualization course. I ana
 
 - `DV0101EN-Final-Assign-Part1.ipynb`: Jupyter Notebook for data analysis and visualizations.
 - `DV0101EN-Final-Assign-Part-2-Questions.py`: Dash app script for building the interactive dashboard.
-- `dashboard_screenshot.png`: Dashboard preview image.
 
 ---
 
