@@ -60,6 +60,8 @@ To explore and visualize historical automobile sales data with a focus on:
 **What I Did**: Grouped by Year and calculated average automobile sales using `groupby()`.
 
 **Visualization**: Line chart
+![Line_Plot_1 png](https://github.com/user-attachments/assets/291f8bcc-94c5-4520-9846-1023ef5a3bbc)
+
 
 **Insight**: Sales dropped significantly during recession years, highlighting economic sensitivity.
 
@@ -69,6 +71,8 @@ To explore and visualize historical automobile sales data with a focus on:
 **What I Did**: Grouped data by Vehicle_Type to compute average sales.
 
 **Visualization**: Bar chart
+![Bar_Chart png](https://github.com/user-attachments/assets/3026d430-6f9c-4db1-9307-cf99f6173c05)
+
 
 **Insight**: Cars and SUVs were the most sold vehicles even during recessions.
 
@@ -78,6 +82,8 @@ To explore and visualize historical automobile sales data with a focus on:
 **What I Did**: Grouped by Vehicle_Type and summed the advertising expenditure.
 
 **Visualization**: Pie chart
+![Pie_2 png](https://github.com/user-attachments/assets/fcaba2a8-6cbd-46bd-a2f0-231af4381a83)
+
 
 **Insight**: Cars received the most ad budget, even during tough times.
 
@@ -87,6 +93,7 @@ To explore and visualize historical automobile sales data with a focus on:
 **What I Did**: Grouped by Unemployment Rate and Vehicle Type to compare average sales.
 
 **Visualization**: Bar chart
+
 
 **Insight**: Higher unemployment correlated with lower vehicle sales, especially for non-essential types.
 
