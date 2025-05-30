@@ -1,7 +1,9 @@
 
 # 🚗 Automobile Sales Data Analysis & Dashboard
 
-![Dashboard Preview](![RecessionReportgraphs png](https://github.com/user-attachments/assets/167304f5-4b67-46da-b7c1-6e4381a67b5c))
+![RecessionReportgraphs png](https://github.com/user-attachments/assets/167304f5-4b67-46da-b7c1-6e4381a67b5c)
+![YearlyReportgraphs png](https://github.com/user-attachments/assets/a47f1905-0cd8-4290-9d08-9971c2c4dd15)
+
 
 This project is my final assignment for the IBM Data Visualization course. I analyzed historical automobile sales data using Python and created an interactive dashboard using Dash. The project is split into two parts:
 
